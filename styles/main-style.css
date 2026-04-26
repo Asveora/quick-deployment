@@ -162,6 +162,7 @@
 		width: 400px;
 		height: 400px;
 		border-radius: 50%;
+		border: 20px solid var(--primary-color);
 	}
   
 	/*SCTN-NAMEPLATE-CLASSES*/
