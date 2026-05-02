@@ -29,9 +29,22 @@ Always wanted to know how to code your own websites, web apps, local software ap
 
 Check the GET-HELP.txt file or the GET-HELP.md file! Whichever one suits your taste! :)
 
+# I am on a mobile device. What do I do?
+
+Even if you are on a mobile device, you can still make use of Asveora! Yes, there ARE ways to code on your smartphone or tablet and manage files in the same way you would within the desktop environment of any other operating system. Below are a couple of options for both Android and iOS (we got everyone covered here)! Please keep in mind that any information or data presented here is based on available information from online sources. Please double check ALL details with OFFICIAL sources as Asveora will not be liable if you make a purchase and there is a mismatch in expectations based on what is listed here and what you get. Asveora is not sponsored by nor affiliated with any of these products.
+
+## Android
+* For Editing Code – QuickEdit Text Editor (Free / Contains Ads) – https://play.google.com/store/apps/details?id=com.rhmsoft.edit&hl=en-US
+* For Editing Code – QuickEdit Text Editor Pro (Paid / Pay Once / No Ads) – https://play.google.com/store/apps/details?id=com.rhmsoft.edit.pro&hl=en
+* For Managing Files – Material Files (Free / Open Source / No Ads) – https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en-US
+
+## iOS
+* For Editing Code – Koder Code Editor (May or may not be paid???) – https://apps.apple.com/us/app/koder-code-editor/id1447489375
+* For Managing Files – FileBrowser Professional (Paid / Pay Once / No Ads) – https://apps.apple.com/us/app/filebrowser-professional/id854618029
+
 # ⚠️ EVERYTHING BEYOND THIS POINT IS COMPLETELY OPTIONAL!
 
-# How do I clone this repo and begin contributing to Asveora?
+## How do I clone this repo and begin contributing to Asveora?
 
 *Contribution guidelines will be coming at some point!*
 
@@ -85,24 +98,3 @@ app.listen(3000, () => {
 ```
 
 Now open your terminal in the `YYYY-MM-DD` directory via `cd`ing to it or doing the file explorer `cmd` trick I mentioned above for Windows users. Then simply run `node server.js` and you should be good. If you get an error or have any missing dependencies then make sure you have installed express with `npm install express` or do a quick internet search for the error you get. If that does not work, then reach out in the Asveora Network Plaza community at: https://stt.gg/5wB2Zzb0
-
-# I am on a mobile device. What do I do?
-
-Even if you are on a mobile device, you can still make use of Asveora! Yes, there ARE ways to code on your smartphone or tablet and manage files in the same way you would within the desktop environment of any other operating system. Below are a couple of options for both Android and iOS (we got everyone covered here)! Please keep in mind that any information or data presented here is based on available information from online sources. Please double check ALL details with OFFICIAL sources as Asveora will not be liable if you make a purchase and there is a mismatch in expectations based on what is listed here and what you get. Asveora is not sponsored by nor affiliated with any of these products.
-
-## Android
-* For Terminal Access – Termux (Free / Open Source / No Ads) – https://play.google.com/store/apps/details?id=com.termux&hl=en-US
-* For Git Features – MGit (Free / Open Source / No Ads) – https://github.com/maks/MGit or https://play.google.com/store/apps/details?id=com.manichord.mgit
-* For the GitHub Experience – GitHub (Free / In-App Purchases) – https://play.google.com/store/apps/details?id=com.github.android&hl=en-US
-* For Editing Code – QuickEdit Text Editor (Free / Contains Ads) – https://play.google.com/store/apps/details?id=com.rhmsoft.edit&hl=en-US
-* For Editing Code – QuickEdit Text Editor Pro (Paid / Pay Once / No Ads) – https://play.google.com/store/apps/details?id=com.rhmsoft.edit.pro&hl=en
-* For Managing Files – Material Files (Free / Open Source / No Ads) – https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en-US
-* For Undo & Redo Functions – Universal Undo (This is a relatively new app and very much optional. Please use with caution and read the privacy policy! https://universalundo.app/privacy-policy) – https://universalundo.app/
-
-## iOS
-* For Editing Code – Koder Code Editor (May or may not be paid???) – https://apps.apple.com/us/app/koder-code-editor/id1447489375
-* For Managing Files – FileBrowser Professional (Paid / Pay Once / No Ads) – https://apps.apple.com/us/app/filebrowser-professional/id854618029
-* For Terminal Access – Termius (Free / In-App Purchases) – https://apps.apple.com/us/app/termius-modern-ssh-client/id549039908
-* For Git Features – Working Copy (Free / In-App Purchases) – https://apps.apple.com/us/app/git-client-working-copy/id896694807
-* For the GitHub Experience – GitHub (Free / In-App Purchases) – https://apps.apple.com/us/app/github/id1477376905
-
