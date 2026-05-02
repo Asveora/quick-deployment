@@ -42,7 +42,7 @@ Even if you are on a mobile device, you can still make use of Asveora! Yes, ther
 * For Editing Code – Koder Code Editor (May or may not be paid???) – https://apps.apple.com/us/app/koder-code-editor/id1447489375
 * For Managing Files – FileBrowser Professional (Paid / Pay Once / No Ads) – https://apps.apple.com/us/app/filebrowser-professional/id854618029
 
-# ⚠️ EVERYTHING BEYOND THIS POINT IS COMPLETELY OPTIONAL!
+# ⚠️ Everything beyond this point is related to contributing to Asveora's development and is completely optional!
 
 ## How do I clone this repo and begin contributing to Asveora?
 
