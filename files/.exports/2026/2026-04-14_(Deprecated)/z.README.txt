@@ -1,3 +1,0 @@
-Thank you for downloading the Quick Deployment template of Asveora. The HTML page stores all of the code of your profile page and the media folder holds all of the images and other media filetypes that you have placed on your profile page. Replace the "username" word in the name of the HTML file and media folder with your Asveora username. Therefore instead of "username-media" and "username_page" it will look something like "johndoe-media" and "johndoe_page" which will help your wheelcore administrator keep track of your files. Feel free to delete this readme text file once you have followed these instructions.
-
-© 2026 Asveora, LLC
